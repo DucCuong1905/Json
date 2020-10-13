@@ -1,5 +1,6 @@
 {
     "data": [
+        {
         "id": 1,
         "fullName": "Le Duc Cuong",
         "pictureUrl": "https://scontent.fhph1-2.fna.fbcdn.net/v/t1.0-9/105959701_161844882115785_8548630862466687409_o.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_ohc=xcCw84bsLskAX9oSX9s&_nc_ht=scontent.fhph1-2.fna&oh=a2a1fe348c2ac8f77056a434d90774d2&oe=5FAB3566",
@@ -33,6 +34,7 @@
                               "value": "180"
                               }
                               ]
+        }
     ],
     "error": 0,
     "message": "Success"
