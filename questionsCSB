@@ -1,0 +1,110 @@
+{	
+	"data": [
+  {
+      "question":"Bảng mạch CPU6 là bảng mạch gì?",
+      "answer":[
+          "Bảng mạch điều khiển xử lý trung tâm.",
+          "Bảng mạch trung kế số.",
+          "Bảng mạch giao diện ổ đĩa mềm.",
+          "Bảng mạch thuê bao tương tự."
+      ],
+      "correct answer": 1
+   },
+   {
+      "question":"Nhận xét nào sau đây là ĐÚNG về chức năng bảng mạch Z32 ?",
+      "answer":[
+          "Cung cấp các giao tiếp: nhạc chờ, bộ tạo tone MF cho các trung kế NDDI.",
+          "Dùng để giao tiếp với các thiết bị analog như: máy điện thoại, fax nhóm 3, các đầu cuối video text.",
+          "Cho phép tải quá trình xử lý dữ liệu trong hệ thống.",
+          "Điều khiển quá trình xử lý tín hiệu số liên quan đến các chức năng tổng đài."
+      ],
+      "correct answer": 1
+   },
+    {
+      "question":"Loại bảng mạch nào hiện có trong tổng đài ?",
+      "answer":[
+          "Bảng mạch Z, Bảng mạch GPA.",
+          "Bảng mạch PCM2, Bảng mạch UA.",
+          "Bảng mạch MMSFD.",
+          "Cả 3 đáp án trên đều đúng .."
+      ],
+      "correct answer": 1
+   },
+    {
+      "question":"Số lượng bảng mạch Z32 hiện có trong tổng đài ?",
+      "answer":[
+          "6",
+          "7",
+          "8",
+          "9"
+      ],
+      "correct answer": 1
+   },
+   {
+      "question":"Đèn led BSY trên bảng mạch PCM2 sáng là báo hiệu lỗi gì ?",
+      "answer":[
+          "Lỗi đồng bộ đa khung",
+          "Báo có lỗi từ xa",
+          "Có ít nhất một cổng bận",
+          "Lỗi đồng bộ đa khung"
+      ],
+      "correct answer": 1
+   },
+    {
+      "question":"Số lượng bảng mạch PCM2 hiện có trong tổng đài ?",
+      "answer":[
+          "1",
+          "2",
+          "3",
+          "4"
+      ],
+      "correct answer": 1
+   },
+    {
+      "question":"Đèn led nào sau đây sáng báo lỗi trên các thiết bị truyền dẫn, truyền số liệu mà nhân viên trực cần báo ngay với chỉ huy đơn vị ?",
+      "answer":[
+          "MSA sáng xanh",
+          "FAIL sáng đỏ",
+          "CPU sáng vàng",
+          "MCU sáng xanh"
+      ],
+      "correct answer": 1
+   },
+    {
+      "question":"",
+      "answer":[
+          "",
+          "",
+          "",
+          ""
+      ],
+      "correct answer": 1
+   },
+   {
+      "question":"Nội dung nào sau đây là vi phạm kỷ luật thông tin Hữu tuyến điện ?",
+      "answer":[
+          "Phải dùng tên mật, chữ mật để liên lạc. Không được nghe thuê bao nói chuyện, khi kiểm tra phải giữ bí mật.",
+          "Không làm lộ bí mật thông tin mình biết trong ca trực. Không làm lộ bí mật đối tượng liên lạc, trang thiết bị trong trạm.",
+          "Không tự ý mang bất kỳ văn kiện tài liệu nào ra khỏi trạm. Không cho người không có trách nhiệm vào trạm.",
+          "Tự ý sử dụng các thiết bị ngoại vi kết nối vào thiết bị thông tin."
+      ],
+      "correct answer": 1
+   },
+   {
+      "question":"Nội dung nào sau đây thuộc nội dung bảo quản ngày. ?",
+      "answer":[
+          "Kiểm tra lau, chùi làm sạch bên ngoài trang bị, vật tư trong phòng máy (như tổng đài, máy VTĐ, ắc quy nguồn điện, thiết bị bảo an, máy điện thoại bàn, bàn PO, máy tính ma níp, tai nghe, bình cứu hỏa...và các trang bị phụ khác trong phòng máy).",
+          "Kiểm tra hoạt động bình thường của thiết bị (thông qua giám sát trên màn hình, đèn báo cảnh); kiểm tra các đầu nối dây nối tín hiệu, phi đơ, dây nối nguồn ...nếu có rơ lỏng phải khắc phục ngay.",
+          "Kiểm tra sự đồng bộ của TBKT, sự đồng bộ của trạm máy (kiểm tra về mặt số lượng, chất lượng các phụ tùng, tài lệu đi kèm với từng trang, thiết bị trong phòng máy). Vệ sinh sạch các phòng máy, phòng trực. Ghi chép sổ sách bàn giao phiên (ca).",
+          "Tất cả các đáp án trên"
+      ],
+      "correct answer": 1
+   }
+ ],	
+    "error": 0,	
+    "message": "Success"	
+}	
+
+
+
+ 
